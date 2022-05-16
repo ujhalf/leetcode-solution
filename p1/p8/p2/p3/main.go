@@ -50,6 +50,8 @@ func findTheWinner(n int, k int) int {
 }
 
 func main() {
+
+	//abc first
 	n, k := 5, 2
 	println(findTheWinner(n, k))
 }

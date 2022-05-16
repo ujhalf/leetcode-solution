@@ -42,6 +42,9 @@ func findTheWinner(n int, k int) int {
 		l.pre = p
 		tmp = *l
 	}
+	///
+
+	//abc
 	return tmp.val
 
 }

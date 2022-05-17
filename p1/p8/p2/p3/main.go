@@ -53,5 +53,6 @@ func main() {
 
 	//abc first
 	n, k := 5, 2
+	//second
 	println(findTheWinner(n, k))
 }
